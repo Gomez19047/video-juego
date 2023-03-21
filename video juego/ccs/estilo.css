@@ -1,0 +1,29 @@
+
+body{
+
+        background-image: url(imagenes/fondo.gif); 
+    }
+
+
+h1{
+    color: white
+}
+h2{
+    color: tomato
+}
+
+.Martastic{
+
+	border: 30px;
+	margin-top: red;
+	
+}
+
+.Mart{
+
+color: black;
+background: red;
+
+}
+
+
